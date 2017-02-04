@@ -1,0 +1,20 @@
+Name:		ANIRUDDHA TEKADE
+B-Number:	B00618834
+Email:		atekade1@binghamton.edu
+
+********************************************************************************************************
+1. This project contain some additional imported libraries apart from those which were given in
+   this sample file "prj3-sol.hs"
+2. These additional libraries are : 'Maybe' and 'Ord'
+3. Every function in the specified file contains the required comments.
+4. Every place wherever the "first class functions" have been used, contains the comments.
+5. The small possible list of first class function is - 
+	i. 	fromJust
+	ii.	map
+	iii. 	fold
+	iv. 	elemIndex
+	v. 	elemIndices
+6. All the functions are tested with all the possible test cases and have been written as per the
+   standards of the haskell code.
+********************************************************************************************************
+
